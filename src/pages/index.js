@@ -15,13 +15,13 @@ const IndexPage = () => (
       </div>
 
       <div className="content">
-        <h1>We need your help!</h1>
+        <h1>Become a Sovereign Cyclist!</h1>
         <p>
-          <b>Super Ultra</b> will be the world's largest database of ultra
-          endurance race reports. If you race{" "}
-          <b>and you are one of those crazy people that like to go far</b> we
-          would love to hear and share your stories. Drop your email below and
-          we will let you know when the platform is ready.
+          A <b>Sovereign Cyclist</b> is a cyclist who is equipped with the
+          kownledge, resources and support he/she needs to grow and thrive as a
+          training athlete. A Sovereign Cyclist is not only <b>in control</b> of
+          his/her own ship, they are also <b>backed by a community</b> of
+          athletes managing their own training as a large team.
         </p>
         <Signup />
       </div>

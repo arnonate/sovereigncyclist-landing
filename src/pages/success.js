@@ -18,7 +18,7 @@ const Success = () => (
         <p>
           Please check your email and verify your subscription. We will let you
           know when the platform is ready. Until then, keep up the{" "}
-          <b>#superultra</b> lifestyle!
+          <b>#sovereigncyclist</b> lifestyle!
         </p>
       </div>
     </div>
