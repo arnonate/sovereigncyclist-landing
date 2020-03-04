@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Super Ultra Race Reports`,
-    description: `The world's largest database of race reports for ultra endurance events.`,
-    author: `@superultrarace`,
+    title: `Sovereign Cyclist`,
+    description: `A Sovereign Cyclist is equipped with the knowledge and support needed to manage their own training in a way that is healthy, sustainable and enjoyable.`,
+    author: `@sovcyclist`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -24,7 +24,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/gatsby-icon.png`,
       },
     },
     {
@@ -41,7 +41,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "UA-159643953-1",
+        trackingId: "UA-159627563-1",
         head: false,
       },
     },
