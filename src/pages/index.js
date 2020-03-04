@@ -11,7 +11,7 @@ const IndexPage = () => (
 
     <div className="main">
       <div className="logo">
-        <img src={Logo} alt="Super Ultra Race Reports" />
+        <img src={Logo} alt="Become a Sovereign Cyclist" />
       </div>
 
       <div className="content">
