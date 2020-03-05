@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Sovereign Cyclist`,
-    description: `A Sovereign Cyclist is equipped with the knowledge and support needed to manage their own training in a way that is healthy, sustainable and enjoyable.`,
+    description: `A Sovereign Cyclist is equipped with the knowledge and support needed to manage their own training in a way that is healthy, sustainable and enjoyable. Becoming a stronger cyclsit is all about becoming Stronger, Longer and More Efficient.`,
     author: `@sovcyclist`,
   },
   plugins: [

@@ -19,9 +19,9 @@ const IndexPage = () => (
         <p>
           A <b>Sovereign Cyclist</b> is a cyclist who is equipped with the
           kownledge, resources and support he/she needs to grow and thrive as a
-          training athlete. A Sovereign Cyclist is not only <b>in control</b> of
-          his/her own ship, they are also <b>backed by a community</b> of
-          athletes managing their own training as a large team.
+          training athlete. Becoming a stronger cyclsist is all about training
+          the body to be stronger, longer and more efficient. We are building a
+          community to inspire and learn as we pursue these goals together.
         </p>
         <Signup />
       </div>
